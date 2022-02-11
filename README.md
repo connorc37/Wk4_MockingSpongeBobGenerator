@@ -13,13 +13,17 @@ Requirements included:
 - New data provided on the new page and a link to the other form or back to the home page
 
 index.jsp
+
 ![1](https://user-images.githubusercontent.com/84937675/153616361-f11118f2-7dd9-4bd9-8478-3ff1f47f87f4.jpg)
 
 converted-text.jsp
+
 ![2](https://user-images.githubusercontent.com/84937675/153616436-16a6e46d-c45c-4701-90c4-86019a658398.jpg)
 
 grade-outlook.jsp when Yes
+
 ![3](https://user-images.githubusercontent.com/84937675/153616482-73a1851b-8af3-4cdb-b134-522114abef1c.jpg)
 
 grade-outlook.jsp when No
+
 ![4](https://user-images.githubusercontent.com/84937675/153616513-fb296cbb-9445-4697-8952-f8a834996fc9.jpg)
